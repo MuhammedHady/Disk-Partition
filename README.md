@@ -1,4 +1,4 @@
-# Disk-Partition
+### Disk-Partition ###
 The code provides an automated way to:
 1- Create any number of logical partitions on a disk 
 2- Assign the size and type of each partition
